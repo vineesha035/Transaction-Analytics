@@ -131,16 +131,4 @@ docs/
 - GitHub Actions CI/CD
 - Real-Time Streaming using Kafka
 
----
 
-## Author
-
-Rahul Patel
-
-Senior Data Engineer
-
-LinkedIn:
-https://www.linkedin.com/in/rahul-patel-data-engineer/
-
-Portfolio:
-https://rahul-patel321.github.io/RahulPatelAnalyst.github.io/
